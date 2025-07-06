@@ -1,4 +1,4 @@
-# Redirects for VortexX Gaming Website
+# Redirects for VortexXstore Website
 
 # Redirect www to non-www
 https://www.vortexx.com/* https://vortexx.com/:splat 301!

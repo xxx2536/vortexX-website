@@ -1,6 +1,6 @@
-# 🌟 VortexX Gaming Website
+# 🌟 VortexXstore Website
 
-เว็บไซต์อย่างเป็นทางการของ VortexX Gaming - ผู้นำด้านเกมและโซลูชันดิจิทัล
+เว็บไซต์อย่างเป็นทางการของ VortexXstore - ผู้นำด้านเกมและโซลูชันดิจิทัล
 
 ## 🚀 คุณสมบัติ
 
@@ -85,12 +85,12 @@ Value: VortexX.com
 
 - **Discord**: VortexX Server
 - **Telegram**: @VortexXOfficial
-- **Facebook**: VortexX Gaming
+- **Facebook**: VortexXstore
 - **Email**: support@vortexx.com
 
 ## 📄 License
 
-© 2025 VortexX Gaming. All rights reserved.
+© 2025 VortexXstore. All rights reserved.
 
 ---
 

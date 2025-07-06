@@ -95,10 +95,10 @@ Value: cname.vercel-dns.com
 ### Phase 4: Content และ SEO
 
 #### ✅ 10. สร้าง Social Media
-- [ ] Facebook Page: VortexX Gaming
+- [ ] Facebook Page: VortexXstore
 - [ ] Twitter: @VortexXOfficial
 - [ ] Instagram: @vortexxgaming
-- [ ] YouTube: VortexX Gaming
+- [ ] YouTube: VortexXstore
 
 #### ✅ 11. สร้าง Backlinks
 - [ ] Discord servers
@@ -186,6 +186,6 @@ Value: cname.vercel-dns.com
 
 ---
 
-**VortexX Gaming** 🎮 - Leading Gaming Solutions Provider
+**VortexXstore** 🎮 - Leading Gaming Solutions Provider
 
 *ทำตาม checklist นี้เพื่อให้เว็บไซต์ปรากฏใน Google!*

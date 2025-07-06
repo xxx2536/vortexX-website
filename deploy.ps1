@@ -2,7 +2,7 @@
 # PowerShell Script for Windows
 
 Write-Host "========================================" -ForegroundColor Cyan
-Write-Host "   VortexX Gaming Website Deployer" -ForegroundColor Cyan
+Write-Host "   VortexXstore" -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host ""
 

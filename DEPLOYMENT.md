@@ -168,4 +168,4 @@ Value: cname.vercel-dns.com
 
 ---
 
-**VortexX Gaming** 🎮 - Leading Gaming Solutions Provider
+**VortexXstore** 🎮 - Leading Gaming Solutions Provider

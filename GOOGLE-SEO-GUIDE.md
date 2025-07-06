@@ -92,7 +92,7 @@ Value: google-site-verification=YOUR_VERIFICATION_CODE
 
 #### Meta Tags (มีอยู่แล้ว)
 ```html
-<meta name="description" content="VortexX Gaming - ผู้นำด้านเกมและโซลูชันดิจิทัล">
+<meta name="description" content="VortexXstore - ผู้นำด้านเกมและโซลูชันดิจิทัล">
 <meta name="keywords" content="VortexX, Gaming, FiveM, Valorant, CS2">
 ```
 
@@ -104,7 +104,7 @@ Value: google-site-verification=YOUR_VERIFICATION_CODE
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "VortexX Gaming",
+  "name": "VortexXstore",
   "url": "https://vortexx.com",
   "logo": "https://vortexx.com/images/logo.png",
   "description": "ผู้นำด้านเกมและโซลูชันดิจิทัล",
@@ -124,10 +124,10 @@ Value: google-site-verification=YOUR_VERIFICATION_CODE
 ### 8. **สร้าง Backlinks**
 
 #### Social Media
-- สร้าง Facebook Page: VortexX Gaming
+- สร้าง Facebook Page: VortexXstore
 - สร้าง Twitter: @VortexXOfficial
 - สร้าง Instagram: @vortexxgaming
-- สร้าง YouTube: VortexX Gaming
+- สร้าง YouTube: VortexXstore
 
 #### Gaming Communities
 - Discord servers
@@ -209,6 +209,6 @@ Value: google-site-verification=YOUR_VERIFICATION_CODE
 
 ---
 
-**VortexX Gaming** 🎮 - Leading Gaming Solutions Provider
+**VortexXstore** 🎮 - Leading Gaming Solutions Provider
 
 *ทำให้เว็บไซต์ปรากฏใน Google และเพิ่ม Traffic!*

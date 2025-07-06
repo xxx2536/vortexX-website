@@ -121,6 +121,6 @@ Value: VortexX.com
 
 ---
 
-**VortexX Gaming** 🎮 - Leading Gaming Solutions Provider
+**VortexXstore** 🎮 - Leading Gaming Solutions Provider
 
 *เว็บไซต์พร้อมใช้งานและ deploy ได้ทันที!* 

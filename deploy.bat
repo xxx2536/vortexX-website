@@ -4,6 +4,7 @@ echo    VortexX Gaming Website Deployer
 echo ========================================
 echo.
 
+cd C:\Users\xxx\Desktop\Web
 echo [1/5] Checking Git status...
 git status
 
