@@ -1,0 +1,23 @@
+{
+  "name": "vortexx-website",
+  "version": "1.0.0",
+  "description": "VortexX Gaming - Leading Gaming Solutions Provider",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo 'Build complete'",
+    "deploy": "echo 'Deploy to production'"
+  },
+  "keywords": [
+    "gaming",
+    "vortexx",
+    "fivem",
+    "valorant",
+    "gaming-solutions"
+  ],
+  "author": "VortexX Team",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

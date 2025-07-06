@@ -1,0 +1,15 @@
+# Redirects for VortexX Gaming Website
+
+# Redirect www to non-www
+https://www.vortexx.com/* https://vortexx.com/:splat 301!
+
+# Redirect HTTP to HTTPS
+http://vortexx.com/* https://vortexx.com/:splat 301!
+http://www.vortexx.com/* https://vortexx.com/:splat 301!
+
+# Redirect old URLs (if any)
+/old-page / 301
+/legacy / 302
+
+# Handle 404 errors
+/* /404.html 404
